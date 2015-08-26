@@ -1,0 +1,1 @@
+# JS Simple graphic redactor

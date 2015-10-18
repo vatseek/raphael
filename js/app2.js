@@ -76,9 +76,10 @@ window.onload = function () {
     }
 
     var circle = r.circle(400, 400, 100).attr(dashed);
-    circle.click(function(e){
-        setToEdit(this);
-    });
+    circle.scale(400, 400, 400, 4000);
+    //circle.click(function(e){
+    //    setToEdit(this);
+    //});
 
     function setToEdit(el) {
         var params = el.getBBox();

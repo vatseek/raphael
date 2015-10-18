@@ -2,3 +2,11 @@ body {
     /*background: url('../img/blueprint_pattern.png');*/
     background: #333;
 }
+
+#paper {
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+.toolbar li {
+    display: inline-block;
+}

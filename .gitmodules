@@ -1,3 +1,0 @@
-[submodule "lib/transform"]
-	path = lib/transform
-	url = https://github.com/AliasIO/Raphael.FreeTransform.git
